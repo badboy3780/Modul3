@@ -1,12 +1,19 @@
-.content{
+ul {
+    
+    width: 70px;
+    height: 135px;
+    font-family: 'Playfair Display', serif;
+    background: #f0f0f0;
+}
+
+
+.list{
+
+    margin-left: 45%; 
+    
+}
+
+li:hover{
     color: aqua;
-}
-
-.content#main{
-    color: blueviolet;
-    font-size: 20px;
-}
-
-div.content{
-    color: chocolate;
+    background: #000;
 }
