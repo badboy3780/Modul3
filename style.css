@@ -1,19 +1,37 @@
-ul {
-    
-    width: 70px;
-    height: 135px;
-    font-family: 'Playfair Display', serif;
-    background: #f0f0f0;
+.wrapper{
+    width: 844px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-
-.list{
-
-    margin-left: 45%; 
-    
+.header{
+  
+    padding: 20px;
+    width: 700px;
+    height: auto;
+    border: 5px solid red;
+    display: inline-block;
 }
 
-li:hover{
-    color: aqua;
-    background: #000;
+.footer{
+    
+    display: inline-block;
+}
+
+#block-two{
+    margin: 20px;
+    padding: 20px;
+    background: blue;
+    width: 340px;
+    height: auto;
+    display: inline-block;
+}
+#block-three{
+    margin: 20px;
+    padding: 20px;
+    width: 340px;
+    height: auto;
+    display: inline-block;
+    background: blue;
 }
