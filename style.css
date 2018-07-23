@@ -1,26 +1,24 @@
 .wrapper{
-    width: 844px;
+    width: 785px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
 .header{
-  
     padding: 20px;
-    width: 700px;
     height: auto;
     border: 5px solid red;
-    display: inline-block;
+    margin-bottom: 20px;
+    
 }
 
 .footer{
-    
     display: inline-block;
 }
 
 #block-two{
-    margin: 20px;
+    margin-right: 10px;
     padding: 20px;
     background: blue;
     width: 340px;
@@ -28,10 +26,14 @@
     display: inline-block;
 }
 #block-three{
-    margin: 20px;
+    margin-left: 10px;
     padding: 20px;
     width: 340px;
     height: auto;
     display: inline-block;
     background: blue;
+}
+
+p{
+    color: aliceblue;
 }
