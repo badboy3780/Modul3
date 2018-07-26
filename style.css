@@ -13,20 +13,16 @@
     
 }
 
-.footer{
-    display: inline-block;
-}
-
 #block-two{
-    margin-right: 10px;
     padding: 20px;
     background: blue;
     width: 340px;
     height: auto;
     display: inline-block;
 }
+
 #block-three{
-    margin-left: 10px;
+    margin-left: 20px;
     padding: 20px;
     width: 340px;
     height: auto;
